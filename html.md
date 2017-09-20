@@ -87,3 +87,4 @@
   * Lazy load
   * 缩减首屏内容的大小
 * Have you used different HTML templating languages before?
+  * jade
